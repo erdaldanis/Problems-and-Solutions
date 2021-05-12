@@ -26,11 +26,16 @@ Bu hata farklı senayolarla karşımıza çıkıyor. Bu hata ile meydana gelen b
   <li> Node_modules'in salt okunur dosya olarak ayarlanmadığı kontrol edin. Eğer salt okunur halde ise kaldırın. Ve /node_modules klasörünü silin </li>
   <li> Projenizi yeniden başlatın. </li>
   
+  
   </ol>
   
-  
+
+
+
   
  ### Umarım bu 2 çözüm sorununuzu giderir. 
 ### Kolay gelsin 👨‍💻
+
+  ![](https://komarev.com/ghpvc/?username=your-github-erdaldanis&label=PROFILE+VIEWS)
   
   
